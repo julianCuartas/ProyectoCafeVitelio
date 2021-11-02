@@ -1,0 +1,42 @@
+
+.o-cantidad-input{
+    text-align: center;
+    font-weight: bolder;
+    height: 2rem;
+    border: 1.8px solid #E1E1E1;
+ 
+padding: 0 2rem 0 2rem;
+    }
+    .o-cantidad-btn-iz{
+    
+    border-radius: 4px 0 0 4px;
+    
+    }
+    .o-cantidad-btn-der{
+    
+        border-radius: 0 4px 4px 0;
+        
+    }
+    
+    
+    .o-cantidad-btn{
+    width: 2rem;
+    height: 2rem;
+    background-color: #F5F5F5;
+    color:black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border: 1.8px solid #E1E1E1;
+    
+    }
+     .o-cantidad-btn:hover{
+    
+        background:  white;
+    
+    
+     }
+     .o-botones-grupo{
+    display: flex;
+    align-content: center;
+    margin: 0 0 2rem 0;
+     }

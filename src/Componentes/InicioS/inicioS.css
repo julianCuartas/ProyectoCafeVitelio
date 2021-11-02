@@ -1,0 +1,40 @@
+.o-imgF{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+
+}
+.o-imgL{
+    position: absolute;
+    left: 0;
+    width: 40%;
+    height: 50%;
+    margin: 13rem 4rem 10rem 4rem;
+}
+.o-der1{
+    margin-left: 3rem;
+    margin-top: 3rem;
+    
+}
+.o-der2{
+    margin-top: 12rem;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.o-inicioS{
+    display: flex;
+}
+.o-TextBox{
+    margin-top: 1rem;   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.o-boton{
+    display: flex;
+    margin-top: 1.5rem;
+}

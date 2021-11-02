@@ -1,0 +1,41 @@
+.o-productocarrito{
+    display: flex;
+    border-bottom: 1.8px solid #E1E1E1;
+    margin: 2rem 6rem 0 6rem;
+    align-items: center;
+    padding: 0 0 2rem 0;
+}
+.o-productocarrito-izquierda{
+    display: flex;
+    align-items: center;
+    
+}
+.o-img-x{
+    max-height: 1.5rem;
+    
+}
+.o-img-productocarrito{
+    max-height: 10rem;
+}
+.o-productocarrito-contenido{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 0 0 1rem ;
+}
+.o-productocarrito-titulo{
+    color: #202020;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+}
+.o-productocarrito-texto{
+    color: #6D727C;
+    font-size: 1.4rem;
+    font-family: sans-serif;
+}
+.o-productocarrito-texto2{
+    color: #202020;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}

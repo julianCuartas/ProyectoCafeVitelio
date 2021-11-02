@@ -1,0 +1,67 @@
+.o-baner{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 15rem 0 5rem 0;
+}
+.o-baner-img{
+    background-image: url(../../Imagenes/IMG_2411.jpg);
+    height: 100vh;
+    background-position: 50%;
+
+    background-size: cover;
+
+}
+.o-nosotros-img{
+    background-image: url(../../Imagenes/IMG_2428.jpg);
+
+}
+.o-nosotros{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 10rem 0 12rem 0;
+}
+.o-nosotros{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.o-nosotros-texto{
+    display: flex;
+    justify-content: center;
+
+}
+.o-tittle{
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.o-tittle-margen{
+    margin: 6rem 0 0 4rem;
+}
+.o-text{
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.o-text-margen{
+    margin: 1rem 0 0 4rem;
+}
+.o-tittle2{
+    display: flex;
+    justify-content: center;
+}
+.o-margen{
+    margin-top: 3rem;
+}
+.o-destacados{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+    margin: 3rem 10rem 0 14.5rem;
+}
+.o-boton{
+    display: flex;
+    margin-top: 4rem;
+    justify-content: center;
+}

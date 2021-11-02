@@ -1,0 +1,108 @@
+.o-detalle{
+    display: flex;
+    margin: 12rem 0 0 0;
+}
+.o-fondo-detalle{
+    background-color: #F5F5F5;
+    border-radius: 3rem;
+    margin: 0 12rem 0 12rem;
+    padding: 2rem 0 2rem 0;
+}
+.o-detalle-izquierda{
+    padding: 0 22rem 0 0;
+    text-align: left;
+}
+.o-img-perfil{
+    max-width: 35rem;
+    padding: 0 0 2rem 0;
+}
+
+.o-btn-detalle{
+    border: 1.8px solid #E1E1E1;
+    color:black;
+    font-family: sans-serif;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 6px;
+    margin: 0 2rem 2rem 0;
+}
+.o-btn-detalle:focus{
+
+    border: 2px solid #57040E;
+    color: #57040E;
+
+}
+
+
+.o-btn-rojo{
+    border: 2px solid #57040E;
+    color: #57040E;
+}
+.o-tipoMolienda{
+    display: flex;
+}
+.o-img-cantida{
+    max-width: 8rem;
+    padding: 0 0 2rem 0;
+}
+.o-titulo-detalle{
+    color: #202020;
+    font-size: 4rem;
+    margin: 0;
+}
+.o-precio-detalle{
+    color: #202020;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+.o-cantidad-input{
+    text-align: center;
+    font-weight: bolder;
+    height: 2rem;
+    border: 1.8px solid #E1E1E1;
+ 
+padding: 0 2rem 0 2rem;
+    }
+    .o-cantidad-btn-iz{
+    
+    border-radius: 4px 0 0 4px;
+    
+    }
+    .o-cantidad-btn-der{
+    
+        border-radius: 0 4px 4px 0;
+        
+    }
+    
+    
+    .o-cantidad-btn{
+    width: 2rem;
+    height: 2rem;
+    background-color: #F5F5F5;
+    color:black;
+    font-family: sans-serif;
+    font-weight: bolder;
+    border: 1.8px solid #E1E1E1;
+    
+    }
+     .o-cantidad-btn:hover{
+    
+        background:  white;
+    
+    
+     }
+     .o-botones-grupo{
+    display: flex;
+    align-content: center;
+    margin: 0 0 2rem 0;
+     }
+
+
+     .o-btn-bloqueado{
+
+        background-color: #F5F5F5;
+color: #57040E;
+
+     }
+   

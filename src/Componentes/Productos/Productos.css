@@ -1,0 +1,21 @@
+.o-fondo-productos{
+    background-image: url(../../Imagenes/productos-fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    padding: 14rem 0 10rem 0;
+}
+
+.o-titulo-Productos{
+    color: #f3f3f3;
+    font-size: 4rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 0 0 0 0;
+}
+
+.o-productos{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4rem 18rem 4rem 18rem;
+}

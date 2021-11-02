@@ -1,0 +1,5 @@
+.o-targetas{
+    display: flex;
+    padding: 5rem 10rem 5rem 13rem;
+    justify-content: space-around;
+}

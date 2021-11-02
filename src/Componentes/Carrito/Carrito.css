@@ -1,0 +1,30 @@
+.o-titulo-carrito{
+    display: flex;
+    margin: 6rem 6rem 0 6rem;
+    color: #202020;
+    font-size: 1.6rem;
+    font-weight: bold;
+    border-bottom: 1.8px solid #E1E1E1;
+}
+
+.o-final-carrito{
+    display: flex;
+    align-items: center;
+    margin: 0 6rem 0 6rem;
+}
+
+.o-txt-precio-carrito{
+    color: #202020;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.o-txt-envio-carrito{
+    color: #6D727C;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 0 1.8rem 0 2.4rem;
+}
+.o-carrito-space{
+    margin: 12rem 0 4rem 0;
+}

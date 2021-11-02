@@ -1,0 +1,29 @@
+.o-textbox{
+    width: 17rem;
+    background-color: #F6F6F6;
+    border: 1px solid #E8E8E8;
+    border-radius: 8px;
+    color: rgb(136, 136, 136);
+    padding:0.7rem 0.8rem 0.8rem 0.8rem;
+    
+    font-family: sans-serif;
+        font-weight: 700;
+    }
+    
+    
+    .o-textbox:focus{
+    outline: none;
+    }
+    
+    .o-campo{
+    display: flex;
+    flex-direction:column;
+    text-align: justify;
+    }
+    
+    .o-titulo{
+        font-family: sans-serif;
+        font-weight: 700;
+        margin-bottom: 2px;
+        color:rgb(63, 63, 63) ;
+    }

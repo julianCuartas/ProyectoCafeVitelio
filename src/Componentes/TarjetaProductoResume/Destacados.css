@@ -1,0 +1,25 @@
+.o-tarjeta {
+    width: 19.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+    transition: width 0.5s, height 0.5s, transform 0.5s;
+}
+.o-producto-resume {
+    width: 207.73rem;
+    height:17.938rem;
+    
+}
+.o-tarjeta:hover{
+    transform : scale(1.05);
+}
+.o-texto {
+    width: 137px;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color:#202020;
+    font-family: sans-serif;
+    
+}

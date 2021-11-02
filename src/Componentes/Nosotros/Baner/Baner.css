@@ -1,0 +1,16 @@
+.o-baner{
+    background-image: url(../../../Imagenes/Recurso_1hdpi.png);
+    margin-top: 4.5rem;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.o-baner-name{
+    padding: 15rem 0 15rem 0;
+
+}
+.o-baner-nosotros{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}

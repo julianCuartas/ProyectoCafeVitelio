@@ -1,0 +1,71 @@
+.o-header{
+    display: flex;
+    margin:0 0 0 0 ;
+    background-color: white;
+    padding: 1rem 2rem 0 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 20px 20px 0 rgba(0, 0, 0, 0.137);
+    
+    
+    
+    position: fixed;
+    left: 0;
+    top: 0;
+    width:100%;
+    
+    
+    }
+    .o-medio {
+    display: flex;
+    /* justify-content: space-around ; */
+    padding: 0.5rem 6rem 0 6rem;
+    font-family: sans-serif;
+    min-width: 370px;
+    
+    
+    }
+    .o-header-nav{
+    
+    margin: 0 2rem 0 2rem;
+    transition: width 1s, height 1s, transform 1s;
+    
+    }
+    .o-header-nav:hover{
+    color: brown;
+    cursor: pointer;
+    transform : scale(1.05);
+    }
+    .o-btn-iz{
+        display: flex;
+        justify-content: flex-end;
+        align-content: center;
+    }
+    .o-logo-sup{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        left: 5rem;
+        top: -9px;
+    }
+    
+    
+    .o-logo-fondo{
+    width: 215px;
+    }
+    .o-logo-vitelio{
+    position: absolute;
+    width: 200px;
+    top: 0.5rem;
+    }
+    .o-carrito{
+        width:2rem;
+        margin:0rem 1rem 1rem 0;
+        transition: width 1s, height 1s, transform 1s;
+    }
+    .o-carrito:hover{
+        transform : scale(1.1);
+    
+        cursor: pointer;
+        
+    
+    }

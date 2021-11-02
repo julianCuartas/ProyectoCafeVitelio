@@ -1,0 +1,29 @@
+.o-img-productoUni{
+        
+        max-height: 18rem;
+}
+.o-tarjeta-productoUni{
+    border: 1.8px solid #E1E1E1;
+ 
+}
+.o-img-productoUni{
+    margin: 4rem 0 4rem 0;
+    transition: width 1s, height 1s, transform 1s;
+
+}
+.o-img-productoUni:hover{
+    transform : scale(1.1);
+
+}
+.o-titulo-productoUni{
+font-size: 24px;
+line-height: 29px;
+color:#202020;
+text-decoration:none;
+}
+.o-precio-productoUni{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    color:#202020;
+}

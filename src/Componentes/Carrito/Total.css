@@ -1,0 +1,12 @@
+.o-total-carrito{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-right: 3rem;
+}
+.o-txt-total-carrito{
+    color: #202020;
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}

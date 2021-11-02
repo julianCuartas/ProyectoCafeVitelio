@@ -1,0 +1,13 @@
+.o-color{
+    background: #810000;
+    color:white;
+    font-family: sans-serif;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border-radius: 6px;
+
+}
+.o-color:hover{
+
+    background: #660101;
+   color: white;
+}
